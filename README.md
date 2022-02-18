@@ -1,2 +1,2 @@
 # scripts
-Here are some scripts that I use to do things.
+Scripts that I use to do things.
